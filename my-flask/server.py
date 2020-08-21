@@ -1,4 +1,4 @@
-from flask improt Flask
+from flask import Flask
 from flask_graphal import GraphQLView
 from schema import schema
 
